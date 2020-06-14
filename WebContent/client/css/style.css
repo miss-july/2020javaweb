@@ -1,0 +1,12 @@
+.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../img/preloader.GIF);}
+
+.number{
+font-size:62px;
+font-weight:300;
+color:#1a57a5;
+}
+
+li a{
+cursor:pointer£»
+}
+
